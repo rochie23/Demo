@@ -1,5 +1,5 @@
 # Goanna Restart 
-## This repository contains materials used for Teaching and Learning
+## This repository contains materials used for Teaching and Learning fun!
 
 ### Setup your own GitHub repo
 
