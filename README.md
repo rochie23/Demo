@@ -1,21 +1,14 @@
-# Goanna Restart 
-## This repository contains materials used for Teaching and Learning
+         ___        ______     ____ _                 _  ___  
+        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
+       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
+      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
+     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
+ ----------------------------------------------------------------- 
 
-### Setup your own GitHub repo
 
-* Sign up with GitHub using your email
-* Create your first repository on GitHub: https://youtu.be/vUqOoSUXvX4
-  
-### Clone this repo for study purposes using:
-``` 
+Hi there! Welcome to AWS Cloud9!
 
-git clone https://github.com/Georges034302/Restart.git
+To get started, create some files, play with the terminal,
+or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
-```
-
-### Download updates from this repository using:
-```
-
-git pull
-
-```
+Happy coding!
